@@ -1,0 +1,15 @@
+.textoFooter {
+    background-color:gray ;
+    color:white;
+    text-align:center;
+}
+
+.imagenBanner{
+    background-image: url(betelgeusebanner.jpg) ;
+    width: 1900px;
+    height: 635px;
+}
+
+.tamañoParrafo{
+    font-size: 1.2em;
+}
