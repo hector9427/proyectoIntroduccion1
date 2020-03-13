@@ -35,3 +35,23 @@
     color:green;
     font-family:"Corbel";
 }
+.imagenPag2{
+    background-image: url(nebulosaImagen.jpg);
+    width: 1900px;
+    height: 635px;
+}
+.colorTituloPag2{
+    color:blue;
+}
+.subtituloPag2{
+    color:blue;
+}
+.textoSubtituloPag2{
+    font-style: italic;
+    color:blue;
+    font-family:"Corbel";
+}
+.colorFondo{
+    background-color:aquamarine;
+
+}
