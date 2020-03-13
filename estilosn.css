@@ -13,3 +13,25 @@
 .tamañoParrafo{
     font-size: 1.2em;
 }
+
+.imagenPag1{
+    background-image: url(constelacion.jpg) ;
+    width: 1900px;
+    height: 635px;
+
+}
+
+.colorTitulo{
+    color:green;
+}
+
+.subtitulo{
+    color:green;
+    
+}
+
+.textoSubtitulo{
+    font-style: italic;
+    color:green;
+    font-family:"Corbel";
+}
